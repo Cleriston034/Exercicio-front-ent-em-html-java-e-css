@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lamg="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=devise-width, initial-scale=1.0">
+        <title>Coparativo de produto</title>
+    </head>
+<body>
+    <header>
+        <h1>Tabela Comparativa de Especificacões Tecnicas</h1>
+    </header>
+<main>
+    <section>
+        <h2>Comparativo de Smarphones Ficticios</h2>
+        <table border="1">
+            <thead>
+                <tr>
+                    <td>Especificacões</td>
+                    <td>Produto J7</td>
+                    <td>Produto J6</td>
+                    <td>Produto A10</td>
+                </tr>
+            </thead>
+            <tbody
+            <tr>
+                <td><strong>Procesador</strong></td>
+                <td>Octa-Core 2.0 Ghz</td>
+                <td>Hexa-Core 3.0 Ghz</td>
+                <td>Octa-Core 3.2 Ghz</td>
+            </tr>
+            <tr>
+                <td><strong>Memoria RAM</strong></td>
+                <td>6 GB</td>
+                <td>8 GB</td>
+                <td>16 GB</td>
+            </tr>
+            <tr>
+                <td><strong>Armazenamento</strong></td>
+                <td>128 GB</td>
+                <td>256 GB</td>
+                <td>512 GB</td>
+            </tr>
+            <tr>
+                <td><strong>Bateria</strong></td>
+                <td>4000 mAh</td>
+                <td>4500 mAh</td>
+                <td>5000 mAh</td>
+            </tr>
+            |<tr>
+                <td><strong>Preço Estimado</strong></td>
+                <td>R$ 1.500,00</td>
+                <td>R$2.300,00</td>
+                <td>3.800,00</td>
+            </tr>
+            </tbody>
+        </table>
+    </section>
+</main>
+
+</body>
+</html>
