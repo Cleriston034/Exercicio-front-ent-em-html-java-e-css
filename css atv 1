@@ -29,3 +29,30 @@
     font-weigth: bold;
     font-size 0.95rem;
     }
+    
+    header nav a:hover {
+        front-size: 1.8rem;
+        color: #ffffff;
+        text-decoration:none:
+        margin-left: 1.5rem;
+        front-size: 0.95;
+    }
+    
+    main {
+    padding: 4rem 1.5rem;
+    }
+    
+    .content-wrapper {
+    max-width: 800px;
+    text-align: left;
+    background-color: #ffffff;
+    padding: 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    }
+    
+    .content-wrapper h1 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #111111;
+    }
