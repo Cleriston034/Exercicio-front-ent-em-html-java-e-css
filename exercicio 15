@@ -1,0 +1,6 @@
+function isPar(numero) {
+    return numero % 2 === 0;
+}
+
+console.log(isPar(8));
+console.log(isPar(7));
